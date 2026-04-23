@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2026年4月22日の8:55 AMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>リダイレクト中...</title>
+		<meta http-equiv="refresh" content="0;url=https://ayami-totonou.com//sitemap.xml">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://ayami-totonou.com//sitemap.xml";
+		</script>
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<sitemap>
-		<loc><![CDATA[/addl-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-04-21T23:50:22+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[/post-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-04-21T07:06:02+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[/page-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-04-21T23:50:22+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[/category-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-04-21T07:06:02+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[/post_tag-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-03-06T06:23:52+00:00]]></lastmod>
-	</sitemap>
-</sitemapindex>
+		<p><a href="https://ayami-totonou.com//sitemap.xml">https://ayami-totonou.com//sitemap.xml</a> にリダイレクト中</p>
+	</body>
+</html>

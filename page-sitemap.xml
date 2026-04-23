@@ -1,38 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2026年4月22日の8:55 AMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>リダイレクト中...</title>
+		<meta http-equiv="refresh" content="0;url=https://ayami-totonou.com//page-sitemap.xml">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://ayami-totonou.com//page-sitemap.xml";
+		</script>
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
-<urlset
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml"
-	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
->
-	<url>
-		<loc><![CDATA[/プロフィール/]]></loc>
-		<lastmod><![CDATA[2026-04-21T23:50:22+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/02/img_9005.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/プライバシーポリシー/]]></loc>
-		<lastmod><![CDATA[2025-04-15T23:56:01+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/community/]]></loc>
-		<lastmod><![CDATA[2025-04-15T00:14:13+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/お問い合わせ/]]></loc>
-		<lastmod><![CDATA[2025-04-01T04:52:57+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-</urlset>
+		<p><a href="https://ayami-totonou.com//page-sitemap.xml">https://ayami-totonou.com//page-sitemap.xml</a> にリダイレクト中</p>
+	</body>
+</html>
