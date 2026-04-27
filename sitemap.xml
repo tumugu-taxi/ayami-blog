@@ -4,23 +4,23 @@
 <?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc><![CDATA[/addl-sitemap.xml]]></loc>
+		<loc><![CDATA[https://ayami-totonou.com/addl-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-04-23T04:45:58+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[/post-sitemap.xml]]></loc>
+		<loc><![CDATA[https://ayami-totonou.com/post-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-04-23T04:45:58+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[/page-sitemap.xml]]></loc>
+		<loc><![CDATA[https://ayami-totonou.com/page-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-04-21T23:50:22+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[/category-sitemap.xml]]></loc>
+		<loc><![CDATA[https://ayami-totonou.com/category-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-04-23T04:45:58+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[/post_tag-sitemap.xml]]></loc>
+		<loc><![CDATA[https://ayami-totonou.com/post_tag-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-03-06T06:23:52+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>
