@@ -1,310 +1,316 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2026年4月27日の1:02 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
+<!-- このサイトマップは、2026年4月28日の12:30 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https:/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/kafunsho-chokatsu-kufuku/]]></loc>
+		<loc><![CDATA[https:/sango-obasan-ka-chokatsu/]]></loc>
+		<lastmod><![CDATA[2026-04-28T03:27:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https:/kafunsho-chokatsu-kufuku/]]></loc>
 		<lastmod><![CDATA[2026-04-23T04:45:58+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/47613abf96ccc58df378551c7d1a07e4.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/47613abf96ccc58df378551c7d1a07e4.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/22096b5d-d496-4360-88e0-a12f91e46265-e1776395067684.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/22096b5d-d496-4360-88e0-a12f91e46265-e1776395067684.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/7966bae78213db11914ad7af893f8431.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/7966bae78213db11914ad7af893f8431.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/image-1.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/image-1.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/【水キムチ】なぜ発酵しない？発酵のタネがなく/]]></loc>
+		<loc><![CDATA[https:/【水キムチ】なぜ発酵しない？発酵のタネがなく/]]></loc>
 		<lastmod><![CDATA[2026-04-21T07:06:02+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_8990.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_8990.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_9010-1.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_9010-1.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/脚痩せを加速させる「反り腰リセット」トレーニ/]]></loc>
+		<loc><![CDATA[https:/脚痩せを加速させる「反り腰リセット」トレーニ/]]></loc>
 		<lastmod><![CDATA[2026-04-15T20:33:47+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/IMG_9249-e1772593162518.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/IMG_9249-e1772593162518.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/2d539e412bae9210a25c4f1135c54b98.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/2d539e412bae9210a25c4f1135c54b98.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/image-3.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/image-3.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/04cdf89783baafd8a3dfd4933319fc90.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/04cdf89783baafd8a3dfd4933319fc90.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/be3bfa70910b6bcc2b904e5b18d22b19.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/be3bfa70910b6bcc2b904e5b18d22b19.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/db68d5bd8fc42c8ca91b20b762a66043.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/db68d5bd8fc42c8ca91b20b762a66043.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/img_9252.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/img_9252.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/もう『お疲れママ』なんて言わせない！産後おば/]]></loc>
+		<loc><![CDATA[https:/もう『お疲れママ』なんて言わせない！産後おば/]]></loc>
 		<lastmod><![CDATA[2026-04-15T20:27:26+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/sango-beauty-v2.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/sango-beauty-v2.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/d2d4bed64d9606527a6eb4f9f547947e-4.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/d2d4bed64d9606527a6eb4f9f547947e-4.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/IMG_9314.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/IMG_9314.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/d2d4bed64d9606527a6eb4f9f547947e-5.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/d2d4bed64d9606527a6eb4f9f547947e-5.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/F657888E-F5CE-42F7-BCF0-12444C0A8666.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/F657888E-F5CE-42F7-BCF0-12444C0A8666.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/40歳手前から人生が再始動！お疲れママだった私を/]]></loc>
+		<loc><![CDATA[https:/40歳手前から人生が再始動！お疲れママだった私を/]]></loc>
 		<lastmod><![CDATA[2026-03-16T07:23:16+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/IMG_9396.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/IMG_9396.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/家族のムズムズ＆私の冷えを救った『お悩み別』/]]></loc>
+		<loc><![CDATA[https:/家族のムズムズ＆私の冷えを救った『お悩み別』/]]></loc>
 		<lastmod><![CDATA[2026-03-14T11:20:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/IMG_9276.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/IMG_9276.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/IMG_8940.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/IMG_8940.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/お風呂で完結！自宅よもぎ蒸しで冷えとむくみ改/]]></loc>
+		<loc><![CDATA[https:/お風呂で完結！自宅よもぎ蒸しで冷えとむくみ改/]]></loc>
 		<lastmod><![CDATA[2026-03-10T06:24:43+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/635d22e4f0b6bb9fc9a66c6bf26aa033.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/635d22e4f0b6bb9fc9a66c6bf26aa033.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/72a2b243d48dc0550614ce6b18026aea.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/72a2b243d48dc0550614ce6b18026aea.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/「脚が太くなる原因」がわかると脚痩せへの近道/]]></loc>
+		<loc><![CDATA[https:/「脚が太くなる原因」がわかると脚痩せへの近道/]]></loc>
 		<lastmod><![CDATA[2026-03-06T06:27:55+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/c478b1a6dedb96603a486610161ab963-3.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/c478b1a6dedb96603a486610161ab963-3.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/3C17AE59-24D2-44C2-B1CE-26C1CEE4F5F8.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/3C17AE59-24D2-44C2-B1CE-26C1CEE4F5F8.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/image-3.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/image-3.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/IMG_4053.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/IMG_4053.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/F8A9E4CE-1DF3-440C-A0CF-88AB60E7DDA6.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/IMG_6218-1.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/IMG_6218-1.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/42A65685-A93F-428B-96DA-D71F414FDFD3.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/42A65685-A93F-428B-96DA-D71F414FDFD3.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/IMG_8940.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/IMG_8940.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/72a2b243d48dc0550614ce6b18026aea.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/72a2b243d48dc0550614ce6b18026aea.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/IMG_4052-3.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/IMG_4052-3.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/IMG_6214.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/IMG_6214.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/03/IMG_9262-edited.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/03/IMG_9262-edited.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2025/04/IMG_9267.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2025/04/IMG_9267.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/【米粉の焼きドーナツ】子どもが喜ぶ簡単レシピ/]]></loc>
+		<loc><![CDATA[https:/【米粉の焼きドーナツ】子どもが喜ぶ簡単レシピ/]]></loc>
 		<lastmod><![CDATA[2026-03-06T06:24:47+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_9092.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_9092.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_9092-1.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_9092-1.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/「でも・だって」が口癖の絶望ママだった私が、37/]]></loc>
+		<loc><![CDATA[https:/「でも・だって」が口癖の絶望ママだった私が、37/]]></loc>
 		<lastmod><![CDATA[2026-03-06T06:23:52+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_9133.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_9133.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/砂糖代わりにも！混ぜて寝かせるだけの「オート/]]></loc>
+		<loc><![CDATA[https:/砂糖代わりにも！混ぜて寝かせるだけの「オート/]]></loc>
 		<lastmod><![CDATA[2026-03-06T06:22:38+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_9141-2.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_9141-2.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_8962-1.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_8962-1.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/オートミール麹でつくるローズマリー米粉クッキ/]]></loc>
+		<loc><![CDATA[https:/オートミール麹でつくるローズマリー米粉クッキ/]]></loc>
 		<lastmod><![CDATA[2026-03-06T06:21:55+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_8958-1.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_8958-1.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_8970-edited.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_8970-edited.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_8951.jpeg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_8951.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/img_8958.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/img_8958.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/3年越しの初収穫！庭のマイヤーレモンと「オート/]]></loc>
+		<loc><![CDATA[https:/3年越しの初収穫！庭のマイヤーレモンと「オート/]]></loc>
 		<lastmod><![CDATA[2026-03-06T06:16:38+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_8980.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_8980.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_8972.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_8972.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/【バレンタイン】米粉のココアチョコチップクッ/]]></loc>
+		<loc><![CDATA[https:/【バレンタイン】米粉のココアチョコチップクッ/]]></loc>
 		<lastmod><![CDATA[2026-03-06T05:54:53+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/IMG_9083.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/IMG_9083.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 </urlset>

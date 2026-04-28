@@ -86,7 +86,7 @@
 }
 
 .w3tc-card-container-title::after {
-	background-image: url("/wp-content/plugins/w3-total-cache/pub/img/transparent-comet.png");
+	background-image: url("https:/wp-content/plugins/w3-total-cache/pub/img/transparent-comet.png");
 	background-repeat: no-repeat;
 	background-position: top right;
 	background-size: 100% 100%;

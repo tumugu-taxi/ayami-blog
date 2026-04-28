@@ -61,7 +61,7 @@ a:hover {
 .button, input[type="button"], input[type="submit"] {
     font-size: 11px;
     line-height: 16px;
-    background: #f2f2f2 url(/wp-content/plugins/w3-total-cache/pub/img/white-grad.png) repeat-x scroll left top;
+    background: #f2f2f2 url(https:/wp-content/plugins/w3-total-cache/pub/img/white-grad.png) repeat-x scroll left top;
     border: 1px solid #bbb;
     color: #464646;
     text-shadow: 0 1px 0 #fff;
@@ -78,11 +78,11 @@ a:hover {
 }
 
 .button:active, input[type="button"]:active, input[type="submit"]:active {
-    background: #F2F2F2 url(/wp-content/plugins/w3-total-cache/pub/img/white-grad-active.png) repeat-x scroll left top;
+    background: #F2F2F2 url(https:/wp-content/plugins/w3-total-cache/pub/img/white-grad-active.png) repeat-x scroll left top;
 }
 
 input.button-primary {
-    background: url(/wp-content/plugins/w3-total-cache/pub/img/button-grad.png) repeat-x scroll left top #21759B;
+    background: url(https:/wp-content/plugins/w3-total-cache/pub/img/button-grad.png) repeat-x scroll left top #21759B;
     border-color: #298CBA;
     color: #FFFFFF;
     font-weight: bold;
@@ -90,7 +90,7 @@ input.button-primary {
 }
 
 input.button-primary:active, button.button-primary:active, a.button-primary:active {
-    background: url(/wp-content/plugins/w3-total-cache/pub/img/button-grad-active.png) repeat-x scroll left top #21759B;
+    background: url(https:/wp-content/plugins/w3-total-cache/pub/img/button-grad-active.png) repeat-x scroll left top #21759B;
     color: #EAF2FA;
 }
 
@@ -177,7 +177,7 @@ input.button-primary:hover, button.button-primary:hover, a.button-primary:hover,
 
 .ps-rules {
     margin: 1em 0;
-    background: #fff url(/wp-content/plugins/w3-total-cache/pub/img/ps_bar.gif) repeat-y;
+    background: #fff url(https:/wp-content/plugins/w3-total-cache/pub/img/ps_bar.gif) repeat-y;
 }
 
 .ps-rules a {
@@ -199,7 +199,7 @@ input.button-primary:hover, button.button-primary:hover, a.button-primary:hover,
 }
 
 .ps-rule:hover {
-    background: #eee url(/wp-content/plugins/w3-total-cache/pub/img/ps_bar.gif) repeat-y;
+    background: #eee url(https:/wp-content/plugins/w3-total-cache/pub/img/ps_bar.gif) repeat-y;
 }
 
 .ps-icon {
@@ -211,7 +211,7 @@ input.button-primary:hover, button.button-primary:hover, a.button-primary:hover,
 
 .ps-icon div {
     display: block;
-    background: url(/wp-content/plugins/w3-total-cache/pub/img/ps_scores.png);
+    background: url(https:/wp-content/plugins/w3-total-cache/pub/img/ps_scores.png);
     width: 14px;
     height: 14px;
     position: relative;
@@ -244,7 +244,7 @@ input.button-primary:hover, button.button-primary:hover, a.button-primary:hover,
 
 .ps-expander {
     display: none;
-    background: #fff url(/wp-content/plugins/w3-total-cache/pub/img/ps_grad.gif) repeat-x;
+    background: #fff url(https:/wp-content/plugins/w3-total-cache/pub/img/ps_grad.gif) repeat-x;
     margin-left: 31px;
     padding: 10px 0 10px 30px;
 }

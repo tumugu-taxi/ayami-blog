@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2026年4月27日の1:02 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
+<!-- このサイトマップは、2026年4月28日の12:30 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https:/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/プロフィール/]]></loc>
+		<loc><![CDATA[https:/プロフィール/]]></loc>
 		<lastmod><![CDATA[2026-04-21T23:50:22+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://ayami-totonou.com/wp-content/uploads/2026/02/img_9005.jpg]]>			</image:loc>
+				<![CDATA[https:/wp-content/uploads/2026/02/img_9005.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/プライバシーポリシー/]]></loc>
+		<loc><![CDATA[https:/プライバシーポリシー/]]></loc>
 		<lastmod><![CDATA[2025-04-15T23:56:01+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/community/]]></loc>
+		<loc><![CDATA[https:/community/]]></loc>
 		<lastmod><![CDATA[2025-04-15T00:14:13+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/お問い合わせ/]]></loc>
+		<loc><![CDATA[https:/お問い合わせ/]]></loc>
 		<lastmod><![CDATA[2025-04-01T04:52:57+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>

@@ -99,7 +99,7 @@ ul#w3tc-options-menu {
 /* Wizard content */
 
 #w3tc_wizard_content {
-    background-image: url(/wp-content/plugins/w3-total-cache/pub/img/moon-bottom-left.png), url(/wp-content/plugins/w3-total-cache/pub/img/moon-bottom-right.png);
+    background-image: url(https:/wp-content/plugins/w3-total-cache/pub/img/moon-bottom-left.png), url(https:/wp-content/plugins/w3-total-cache/pub/img/moon-bottom-right.png);
     background-size: 15% !Important;
     background-repeat: no-repeat, no-repeat;
     background-position: bottom left, bottom right;

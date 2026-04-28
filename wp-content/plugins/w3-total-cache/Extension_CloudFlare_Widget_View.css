@@ -35,6 +35,6 @@ td.cloudflare_td_value {
     float: left;
     width: 220px;
     height: 35px;
-    background: url("/wp-content/plugins/w3-total-cache/Extension_CloudFlare_Widget_Logo.png") no-repeat;
+    background: url("https:/wp-content/plugins/w3-total-cache/Extension_CloudFlare_Widget_Logo.png") no-repeat;
     background-size: contain;
 }

@@ -4,7 +4,7 @@
 	padding-top: 50px;
 }
 .ustats_ad_metabox .inside {
-	background: url('/wp-content/plugins/w3-total-cache/pub/img/stats-bg.png');
+	background: url('https:/wp-content/plugins/w3-total-cache/pub/img/stats-bg.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	min-height: 400px;

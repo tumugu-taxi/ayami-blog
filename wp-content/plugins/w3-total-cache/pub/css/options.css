@@ -531,7 +531,7 @@ textarea.w3tc-error {
 #support_loading,
 .w3tc-checking {
 	height: 32px;
-	background: url(/wp-content/plugins/w3-total-cache/pub/img/wpspin_light.gif) left center no-repeat;
+	background: url(https:/wp-content/plugins/w3-total-cache/pub/img/wpspin_light.gif) left center no-repeat;
 	padding-left: 38px;
 	line-height: 32px;
 	margin: 1em 0;
@@ -707,7 +707,7 @@ textarea.w3tc-error {
 .minify_auto_test,
 .w3tc-loading {
 	height: 16px;
-	background: url(/wp-content/plugins/w3-total-cache/pub/img/wpspin_light.gif) right top no-repeat;
+	background: url(https:/wp-content/plugins/w3-total-cache/pub/img/wpspin_light.gif) right top no-repeat;
 	width: 16px;
 }
 
@@ -1006,7 +1006,7 @@ table.w3tc-pro-feature {
 table.w3tc-pro-feature:after,
 table:not(.w3tc-pro-feature) .w3tc-gopro:after,
 .w3tc-gopro-manual-wrap .w3tc-gopro:after {
-	background-image: url("/wp-content/plugins/w3-total-cache/pub/img/transparent-comet.png");
+	background-image: url("https:/wp-content/plugins/w3-total-cache/pub/img/transparent-comet.png");
 	background-repeat: no-repeat;
 	background-position: top right;
 	background-size: 100% 100%;
@@ -1061,7 +1061,7 @@ table:not(.w3tc-pro-feature) .w3tc-gopro:after,
 }
 
 #w3tc_dashboard_banner .inside {
-	background-image: url("/wp-content/plugins/w3-total-cache/pub/img/transparent-comet-moon.png"), linear-gradient( to right, #fff 60%, #56bec1 100% );
+	background-image: url("https:/wp-content/plugins/w3-total-cache/pub/img/transparent-comet-moon.png"), linear-gradient( to right, #fff 60%, #56bec1 100% );
 	background-repeat: no-repeat;
 	background-position: top right;
 	background-size: contain;
@@ -1184,7 +1184,7 @@ td .w3tc-control-after span {
 
 #w3tc-top-nav-bar #w3tc-top-nav-bar-content .logo-link h2.logo {
 	height: 40px;
-	background: url("/wp-content/plugins/w3-total-cache/pub/img/W3TC_dashboard_logo_title.png") top left no-repeat;
+	background: url("https:/wp-content/plugins/w3-total-cache/pub/img/W3TC_dashboard_logo_title.png") top left no-repeat;
 	background-size: contain;
 	background-origin: content-box;
 	text-indent: -9999px;
@@ -1357,7 +1357,7 @@ td .w3tc-control-after span {
 
 #w3tc-footer .logo-link h2.logo {
 	height: 40px;
-	background: url("/wp-content/plugins/w3-total-cache/pub/img/W3TC_dashboard_logo_title.png") top left no-repeat;
+	background: url("https:/wp-content/plugins/w3-total-cache/pub/img/W3TC_dashboard_logo_title.png") top left no-repeat;
 	background-size: contain;
 	background-origin: content-box;
 	text-indent: -9999px;
@@ -1370,7 +1370,7 @@ td .w3tc-control-after span {
 #w3tc-bunnycdn-ad-cdn .w3tc-bunnycdn-logo {
 	width: 150px;
 	height: 50px;
-	background: url('/wp-content/plugins/w3-total-cache/pub/img/w3tc_bunnycdn_logo.svg') 0 8px no-repeat;
+	background: url('https:/wp-content/plugins/w3-total-cache/pub/img/w3tc_bunnycdn_logo.svg') 0 8px no-repeat;
 }
 
 #w3tc-bunnycdn-ad-cdn,
@@ -1800,7 +1800,7 @@ td .w3tc-control-after span {
 	}
 	#w3tc-top-nav-bar #w3tc-top-nav-bar-content .logo-link h2.logo {
 		height: 34px;
-		background: url("/wp-content/plugins/w3-total-cache/pub/img/w3tc_w3tc-logo.png") top left no-repeat;
+		background: url("https:/wp-content/plugins/w3-total-cache/pub/img/w3tc_w3tc-logo.png") top left no-repeat;
 		background-size: auto;
 		background-origin: content-box;
 	}

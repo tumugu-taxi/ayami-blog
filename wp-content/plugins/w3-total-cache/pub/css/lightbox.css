@@ -47,7 +47,7 @@ ul {
 }
 
 .lightbox-loader {
-    background: url(/wp-content/plugins/w3-total-cache/pub/img/wpspin_light.gif) no-repeat center center;
+    background: url(https:/wp-content/plugins/w3-total-cache/pub/img/wpspin_light.gif) no-repeat center center;
 }
 
 .lightbox-content {
@@ -279,7 +279,7 @@ fieldset[disabled] .btn {
     color: #fff;
     border-bottom-color: #0092cb;
     padding:5px 10px 5px 37px;
-    background-image: url(/wp-content/plugins/w3-total-cache/pub/img/overlay/twitter-bird-dark-bgs.png);
+    background-image: url(https:/wp-content/plugins/w3-total-cache/pub/img/overlay/twitter-bird-dark-bgs.png);
 }
 .w3tc-overlay .btn-default.palette-wordpress:active,
 .w3tc-overlay .btn-default.palette-wordpress.active,
@@ -288,14 +288,14 @@ fieldset[disabled] .btn {
     color: #fff;
     border-bottom-color: #12719b;
     padding:5px 10px 5px 37px;
-    background-image: url(/wp-content/plugins/w3-total-cache/pub/img/overlay/wordpress-logo-simplified-rgb.png);
+    background-image: url(https:/wp-content/plugins/w3-total-cache/pub/img/overlay/wordpress-logo-simplified-rgb.png);
 }
 .w3tc-overlay .btn.save:active,
 .w3tc-overlay .btn.save.active,
 .w3tc-overlay .btn.save {
     background-position: 10px 5px;  /* equivalent to 'top left' */
     padding:5px 10px 5px 37px;
-    background-image: url(/wp-content/plugins/w3-total-cache/pub/img/overlay/save-close.png);
+    background-image: url(https:/wp-content/plugins/w3-total-cache/pub/img/overlay/save-close.png);
 }
 
 .w3tc-overlay .btn.secure:active,
@@ -303,7 +303,7 @@ fieldset[disabled] .btn {
 .w3tc-overlay .btn.secure {
 	background-position: 10px 5px;  /* equivalent to 'top left' */
 	padding:5px 10px 5px 37px;
-	background-image: url(/wp-content/plugins/w3-total-cache/pub/img/overlay/save-close.png);
+	background-image: url(https:/wp-content/plugins/w3-total-cache/pub/img/overlay/save-close.png);
 	text-decoration: none;
 }
 
@@ -338,7 +338,7 @@ fieldset[disabled] .btn {
     background-position: 0 -17px;
 }
 
-.w3tc-overlay .css-label{ background-image:url(/wp-content/plugins/w3-total-cache/pub/img/overlay/gray-check.png); }
+.w3tc-overlay .css-label{ background-image:url(https:/wp-content/plugins/w3-total-cache/pub/img/overlay/gray-check.png); }
 .w3tc-overlay {
     position: absolute;
     background: #fdfdfd;
@@ -367,7 +367,7 @@ fieldset[disabled] .btn {
     height:100px;
     background-repeat:no-repeat;
     background-position: 10px 7px;
-    background-image: url(/wp-content/plugins/w3-total-cache/pub/img/overlay/ceo.png);
+    background-image: url(https:/wp-content/plugins/w3-total-cache/pub/img/overlay/ceo.png);
 }
 
 .w3tc-overlay #w3tc-support-us header h2, header h3 {
@@ -412,13 +412,13 @@ fieldset[disabled] .btn {
     width:94px;
     background-repeat:no-repeat;
     background-position: 0 0;
-    background-image: url(/wp-content/plugins/w3-total-cache/pub/img/overlay/overlay-logo.png);
+    background-image: url(https:/wp-content/plugins/w3-total-cache/pub/img/overlay/overlay-logo.png);
 
 }
 .lightbox-close {
     background-repeat: no-repeat;
     background-position: 0 5px;
-    background-image: url(/wp-content/plugins/w3-total-cache/pub/img/overlay/overlay-close.png);
+    background-image: url(https:/wp-content/plugins/w3-total-cache/pub/img/overlay/overlay-close.png);
 	background-color: #f1f1f1;
 	border-radius: 50%;
 	padding: 0;
@@ -521,7 +521,7 @@ a.w3tc-palette-tp {
 
 /* A button with an icon gauge to the right. */
 #w3tc_upgrade_header .w3tc-gauge-tp {
-	background-image: url(/wp-content/plugins/w3-total-cache/pub/img/overlay/gauge-bg-tp.png);
+	background-image: url(https:/wp-content/plugins/w3-total-cache/pub/img/overlay/gauge-bg-tp.png);
 	background-position: calc(100% - 15px) center;
 	background-repeat: no-repeat;
 	text-decoration: none;

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2026年4月27日の1:02 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
+<!-- このサイトマップは、2026年4月28日の12:30 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https:/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/category/beauty/]]></loc>
+		<loc><![CDATA[https:/category/beauty/]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/category/food/]]></loc>
+		<loc><![CDATA[https:/category/food/]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/category/mind/]]></loc>
+		<loc><![CDATA[https:/category/mind/]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://ayami-totonou.com/category/herb/]]></loc>
+		<loc><![CDATA[https:/category/herb/]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>

@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "Flaticon";
-	src: url("/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.eot");
-	src: url("/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.eot#iefix") format("embedded-opentype"),
-	url("/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.woff") format("woff"),
-	url("/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.ttf") format("truetype"),
-	url("/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.svg") format("svg");
+	src: url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.eot");
+	src: url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.eot#iefix") format("embedded-opentype"),
+	url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.woff") format("woff"),
+	url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.ttf") format("truetype"),
+	url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/statics/flaticon.svg") format("svg");
 	font-weight: normal !important;
 	font-style: normal !important;
 }
@@ -32,11 +32,11 @@
 
 @font-face {
   font-family: "Flaticon";
-  src: url("/wp-content/plugins/wp-fastest-cache/css/fonts/db/flaticon.eot");
-  src: url("/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.eot#iefix") format("embedded-opentype"),
-       url("/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.woff") format("woff"),
-       url("/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.ttf") format("truetype"),
-       url("/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.svg#Flaticon") format("svg");
+  src: url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/db/flaticon.eot");
+  src: url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.eot#iefix") format("embedded-opentype"),
+       url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.woff") format("woff"),
+       url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.ttf") format("truetype"),
+       url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.svg#Flaticon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -44,7 +44,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "Flaticon";
-    src: url("/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.svg#Flaticon") format("svg");
+    src: url("https:/wp-content/plugins/wp-fastest-cache/css/fonts/db/Flaticon.svg#Flaticon") format("svg");
   }
 }
 
