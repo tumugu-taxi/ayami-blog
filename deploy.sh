@@ -13,7 +13,7 @@ echo "🗂️  静的ファイルを削除中..."
 for item in "$REPO_DIR"/*; do
   name="$(basename "$item")"
   case "$name" in
-    deploy.sh|deploy-full.sh|.git|.claude|drafts|agents|logs|README.md|CLAUDE.md) ;;
+    deploy.sh|deploy-full.sh|.git|.claude|drafts|agents|logs|README.md|CLAUDE.md|_redirects) ;;
     *) rm -rf "$item" ;;
   esac
 done
