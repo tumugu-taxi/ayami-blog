@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "totonou-hp",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "totonou-hp", "-p", "3456", "--no-clipboard"],
+      "port": 3456
+    }
+  ]
+}
