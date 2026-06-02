@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2026年5月21日の12:45 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
+<!-- このサイトマップは、2026年6月2日の12:55 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.9.6.2により動的生成されました。 -->
 
 <?xml-stylesheet type="text/xsl" href="https:/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,18 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https:/sango-benpi-choukatsu/]]></loc>
+		<lastmod><![CDATA[2026-06-02T03:52:44+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https:/mykinso-chonaifurora-kensa-yattemita/]]></loc>
+		<lastmod><![CDATA[2026-06-02T03:51:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
 	<url>
 		<loc><![CDATA[https:/40歳手前から人生が再始動！お疲れママだった私を/]]></loc>
 		<lastmod><![CDATA[2026-05-19T01:43:35+00:00]]></lastmod>
